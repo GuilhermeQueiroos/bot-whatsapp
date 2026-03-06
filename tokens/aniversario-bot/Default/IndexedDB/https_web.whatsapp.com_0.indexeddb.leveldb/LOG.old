@@ -1,5 +1,12 @@
-2026/03/06-19:21:46.922 3900 Reusing MANIFEST C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/06-19:21:46.923 3900 Recovering log #23
-2026/03/06-19:21:46.977 3900 Reusing old log C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
-2026/03/06-19:21:46.978 3900 Delete type=2 #21
-2026/03/06-19:21:46.978 3900 Delete type=2 #24
+2026/03/06-19:43:30.590 2f38 Reusing MANIFEST C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/06-19:43:30.590 2f38 Recovering log #23
+2026/03/06-19:43:30.848 2f38 Reusing old log C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2026/03/06-19:43:32.709 1f50 Level-0 table #28: started
+2026/03/06-19:43:33.055 1f50 Level-0 table #28: 1034192 bytes OK
+2026/03/06-19:43:33.057 1f50 Delete type=0 #23
+2026/03/06-19:43:33.189 1f50 Compacting 1@1 + 1@2 files
+2026/03/06-19:43:33.482 1f50 Generated table #29@1: 50395 keys, 1769848 bytes
+2026/03/06-19:43:33.483 1f50 Compacted 1@1 + 1@2 files => 1769848 bytes
+2026/03/06-19:43:33.484 1f50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/06-19:43:33.485 1f50 Delete type=2 #25
+2026/03/06-19:43:33.485 1f50 Delete type=2 #28
