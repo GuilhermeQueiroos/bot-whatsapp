@@ -1,3 +1,6 @@
-2026/03/05-22:52:49.725 4644 Reusing MANIFEST C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/05-22:52:49.736 4644 Recovering log #3
-2026/03/05-22:52:49.739 4644 Reusing old log C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\Local Storage\leveldb/000003.log 
+2026/03/06-10:27:56.081 6238 Reusing MANIFEST C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/06-10:27:56.087 6238 Recovering log #4
+2026/03/06-10:27:56.090 6238 Reusing old log C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\Local Storage\leveldb/000004.log 
+2026/03/06-11:45:18.230 6238 Level-0 table #8: started
+2026/03/06-11:45:18.235 6238 Level-0 table #8: 13382 bytes OK
+2026/03/06-11:45:18.240 6238 Delete type=0 #4
