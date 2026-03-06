@@ -1,12 +1,12 @@
-2026/03/06-18:24:52.821 5334 Reusing MANIFEST C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/06-18:24:52.822 5334 Recovering log #19
-2026/03/06-18:24:52.858 5334 Reusing old log C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000019.log 
-2026/03/06-18:24:52.859 5334 Delete type=2 #17
-2026/03/06-18:24:52.859 5334 Delete type=2 #20
-2026/03/06-18:27:33.488 19b0 Level-0 table #24: started
-2026/03/06-18:27:33.588 19b0 Level-0 table #24: 1486987 bytes OK
-2026/03/06-18:27:33.594 19b0 Delete type=0 #19
-2026/03/06-18:27:33.620 19b0 Compacting 1@1 + 1@2 files
-2026/03/06-18:27:33.840 19b0 Generated table #25@1: 48131 keys, 1722508 bytes
-2026/03/06-18:27:33.840 19b0 Compacted 1@1 + 1@2 files => 1722508 bytes
-2026/03/06-18:27:33.842 19b0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/06-19:43:30.590 2f38 Reusing MANIFEST C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/06-19:43:30.590 2f38 Recovering log #23
+2026/03/06-19:43:30.848 2f38 Reusing old log C:\Users\guilh\OneDrive\Documentos\bot-whatsapp\tokens\aniversario-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2026/03/06-19:43:32.709 1f50 Level-0 table #28: started
+2026/03/06-19:43:33.055 1f50 Level-0 table #28: 1034192 bytes OK
+2026/03/06-19:43:33.057 1f50 Delete type=0 #23
+2026/03/06-19:43:33.189 1f50 Compacting 1@1 + 1@2 files
+2026/03/06-19:43:33.482 1f50 Generated table #29@1: 50395 keys, 1769848 bytes
+2026/03/06-19:43:33.483 1f50 Compacted 1@1 + 1@2 files => 1769848 bytes
+2026/03/06-19:43:33.484 1f50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/06-19:43:33.485 1f50 Delete type=2 #25
+2026/03/06-19:43:33.485 1f50 Delete type=2 #28

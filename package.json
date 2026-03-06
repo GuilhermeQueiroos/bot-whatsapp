@@ -2,9 +2,9 @@
   "name": "bot-whatsapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "npx puppeteer browsers install chrome && node bot.js"
   },
   "keywords": [],
   "author": "",
